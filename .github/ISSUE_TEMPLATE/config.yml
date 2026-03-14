@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Community Discussion
+    url: https://github.com/Baffoura30/OpenSwitch-playbook/discussions
+    about: Ask questions, share ideas, and discuss switch troubleshooting with the community.
+  - name: OpenSwitch Playbook (Live)
+    url: https://baffoura30.github.io/OpenSwitch-playbook/
+    about: Access the live hosted version of the playbook.
